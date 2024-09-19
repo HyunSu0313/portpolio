@@ -84,6 +84,7 @@
 ![화면 예시1](https://github.com/user-attachments/assets/70223615-8cc8-4a8d-a7f5-3658faca71a8)
 
 **[GitHub Link]** : https://github.com/TeamGansik
+<br>
 **[BLOG Link]**: https://velog.io/@jhs99126/series/Mini-Project  (현재 수정 중에 있습니다.)
 &nbsp;  
 
