@@ -34,11 +34,13 @@
 24.02.06 - 24.02.29 (4주) , 팀원 6명 (AWS Infra 구축 - 3명, Service 개발 및 배포 - 3명) 
 <br>
 <br>
-**[프로젝트 개요]**
+**[프로젝트 개요 및 주요 사항]**
 - 최근 글로벌 시장에서 순항 중인 뚜레주르 이커머스를 멀티 리전에 구축해보는 프로젝트입니다.
-- AWS 서비스를 적극적으로 사용하고, Terraform을 이용해 서울 리전과 버지니아 북부 리전(멀티 리전)에 인프라를 구축해보는 것이 주 목표입니다.
+- AWS 서비스를 적극적으로 사용하고, Terraform을 이용해 서울 리전과 버지니아 북부 리전에(멀티 리전) 인프라를 구축해보는 것이 주 목표입니다.
 - 배포할 예시 서비스로는 NodeJS 기반의 회원 서비스(로그인, 회원 가입), Spring 기반의 주문 서비스입니다.
 - MSA 구성을 위해 AWS EKS를 사용했고, ClusterIP의 DNS를 이용해 Service Discovery를 구현했습니다.
+- 그 외에도 이커머스에 콜센터, AI 챗봇, 사용자 추천 기능을 구현하기 위해 AWS Connect, Lex, Personalize 등의 서비스를 사용했습니다.
+- Hybrid Cold DR 전략을 사용하여, On-Premise 환경은 Synology NAS로 설정하고, AWS RDS 스냅샷을 AWS S3 버킷과 On-Premise에 각각 저장하는 방식으로 구현했습니다.
 
 **[역할]**
 - 팀장 역할 수행, Service 개발 및 배포 팀 소속
@@ -75,8 +77,7 @@
 - 실제 운영 환경으로 배포는 진행하지 않았습니다.
 
 **[역할]**
-- 공식적인 팀장 포지션은 없었지만, 사실상 팀장 역할 수행
-- Backend 개발 총괄
+- Backend 개발
 
 **[예시 이미지]**
 ![main1](https://github.com/user-attachments/assets/123eefcf-4a04-4c3d-ad5d-fc4f8a7688d6)
