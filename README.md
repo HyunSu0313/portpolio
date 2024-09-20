@@ -38,7 +38,7 @@
   
 ## 💻 Project 1
 
-### CJ CloudWave 2기 Team Project [최우수팀 선정]
+### CJ 올리브 네트웍스 CloudWave 2기 Team Project [최우수팀 선정]
 24.02.06 - 24.02.29 (4주) , 팀원 6명 (AWS Infra 구축 - 3명, Service 개발 및 배포 - 3명) 
 <br>
 <br>
