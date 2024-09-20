@@ -19,7 +19,7 @@
 
 ## 🛠️ Skills  
 
-<img src="https://img.shields.io/badge/Languate-848484"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Language-848484"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>  
 
 <img src="https://img.shields.io/badge/Web-Backend-848484"/>&nbsp;&nbsp;&nbsp;&nbsp; 
