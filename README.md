@@ -113,7 +113,7 @@ https://github.com/user-attachments/assets/4d065bf1-e29b-4e9b-af49-12fe510ad696
 
 ### 💼 Internship
 - CJ 올리브네트웍스 송도 IDC 센터 **[Infra Tech Lab]** / 24.07.01 - 24.07.19
-- CloudWave 2기 우수 수료생 특전으로 인턴십 프로젝트 진행
+- CloudWave 2기 우수 교육생 특전으로 인턴십 프로젝트 진행
 
 ### 💳 Certification
 - SQL개발자(SQLD) (23.07.17)
