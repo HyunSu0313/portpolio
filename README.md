@@ -56,6 +56,15 @@
 #### **[CI/CD Pipeline]**
 ![CICD](https://github.com/user-attachments/assets/2313b2df-ff10-408f-a545-dfc248fc1feb)
 
+#### **[시연 영상]**
+https://github.com/user-attachments/assets/a18f9b9d-745c-41b4-8bbb-14b9cd15c827
+
+#### **[부하 테스트 영상]**
+https://github.com/user-attachments/assets/4d065bf1-e29b-4e9b-af49-12fe510ad696
+
+
+
+
 
 **[GitHub Link]** : https://github.com/cloudwave-cloudladder-DevOps
 
