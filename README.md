@@ -82,7 +82,6 @@ https://github.com/user-attachments/assets/4d065bf1-e29b-4e9b-af49-12fe510ad696
 24.09.02 - 24.09.06 (1주) , 팀원 4명 (Frontend - 2명, Backend - 2명) 
 
 <br>
-<br>
 
 **[프로젝트 개요]**
 - 간식거리를 판매하는 가상의 Online Shop을 개발해보는 미니 프로젝트입니다.
