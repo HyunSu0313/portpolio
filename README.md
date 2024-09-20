@@ -36,7 +36,7 @@
 
 <br>
   
-## 💻 Project
+## 💻 Project 1
 
 ### CJ CloudWave 2기 Team Project [최우수팀 선정]
 24.02.06 - 24.02.29 (4주) , 팀원 6명 (AWS Infra 구축 - 3명, Service 개발 및 배포 - 3명) 
@@ -78,6 +78,7 @@ https://github.com/user-attachments/assets/4d065bf1-e29b-4e9b-af49-12fe510ad696
 
 
 &nbsp;  
+## 💻 Project 2
 
 ### Online Shop 개발 미니 프로젝트 
 24.09.02 - 24.09.06 (1주) , 팀원 4명 (Frontend - 2명, Backend - 2명) 
