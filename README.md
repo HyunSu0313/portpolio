@@ -94,7 +94,11 @@ https://github.com/user-attachments/assets/4d065bf1-e29b-4e9b-af49-12fe510ad696
 - 실제 운영 환경으로 배포는 진행하지 않았습니다.
 
 **[역할]**
-- Backend 개발
+- Backend 개발 총괄
+- 테이블 설계 및 엔티티 설계
+- 페이징 & 성능 최적화 방안 고려 
+- Spring Security + JWT 토큰을 활용한 인증 및 인가 구현
+- Frontend & Backend 연동
 
 **[예시 이미지]**
 ![main1](https://github.com/user-attachments/assets/123eefcf-4a04-4c3d-ad5d-fc4f8a7688d6)
