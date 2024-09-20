@@ -106,17 +106,15 @@ https://github.com/user-attachments/assets/4d065bf1-e29b-4e9b-af49-12fe510ad696
 **[BLOG Link]**: https://velog.io/@jhs99126/series/Mini-Project  (현재 수정 중에 있습니다.)
 &nbsp;  
 
-
-### 📙 Education
+## 📙 Education
 - 인천대학교 정보기술대학 컴퓨터공학부 학사졸업  / 18.03.05 – 24.02.16
 - CJ 올리브네트웍스 주관 KDT 교육 CloudWave 2기 수료 **[우수 교육생 선발]** / 23.12.18 - 24.02.29
 
-
-### 💼 Internship
+## 💼 Internship
 - CJ 올리브네트웍스 송도 IDC 센터 **[Infra Tech Lab]** / 24.07.01 - 24.07.19
 - CloudWave 2기 우수 교육생 특전으로 인턴십 프로젝트 진행
 
-### 💳 Certification
+## 💳 Certification
 - SQL개발자(SQLD) (23.07.07)
 - 정보처리기사 (23.06.09)
 
