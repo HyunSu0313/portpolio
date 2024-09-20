@@ -116,7 +116,7 @@ https://github.com/user-attachments/assets/4d065bf1-e29b-4e9b-af49-12fe510ad696
 - CloudWave 2기 우수 교육생 특전으로 인턴십 프로젝트 진행
 
 ### 💳 Certification
-- SQL개발자(SQLD) (23.07.17)
+- SQL개발자(SQLD) (23.07.07)
 - 정보처리기사 (23.06.09)
 
 
